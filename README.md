@@ -11,8 +11,6 @@
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I am a curious, analytical yet fun loving guy! :D
 
-[<img align="left" alt="Hemant Rakesh | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
 
 <!--
 <p>
@@ -20,8 +18,7 @@
 </p>
 -->
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=Hemantr05&show_icons=true)
 
-[linkedin]: https://www.linkedin.com/in/hemant-rakesh-983b59129/
 
