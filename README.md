@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Hemant Rakesh | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Hemant Rakesh | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
+-->
 
 <p>
     <img class="center" alt="Hemant Rakesh's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Hemantr05.Hemantr05"/>
