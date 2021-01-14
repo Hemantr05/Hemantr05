@@ -13,9 +13,12 @@
 
 [<img align="left" alt="Hemant Rakesh | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
+
+<!--
 <p>
     <img class="center" alt="Hemant Rakesh's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Hemantr05.Hemantr05"/>
 </p>
+-->
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=Hemantr05&show_icons=true)
