@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Hemant!
-Currently, I work as a Software Engineer (Machine Learning) in Bangalore/Ahmedabad
+[![Github](https://img.shields.io/github/followers/Hemantr05?label=Follow&style=social)](https://github.com/Hemantr05)
 
 
 <!--
 **Hemantr05/Hemantr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Github](https://img.shields.io/github/followers/Hemantr05?label=Follow&style=social)](https://github.com/Hemantr05)
+##  Currently, I work as a Software Engineer (Machine Learning) in Bangalore/Ahmedabad
 
 - 🔭 I’m currently working on:  Data Science (NLP and CV) and Machine Learning, Backend development (APIs)
 - 🌱 I’m currently learning: Speech Synthesis, Game theory.
@@ -34,7 +34,7 @@ Currently, I work as a Software Engineer (Machine Learning) in Bangalore/Ahmedab
 </p>
 -->
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## :trophy: My Github Stats:
 
 <!--
@@ -49,6 +49,5 @@ Currently, I work as a Software Engineer (Machine Learning) in Bangalore/Ahmedab
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight" />
 </a>
 </div>
-![github stats](https://github-readme-stats.vercel.app/api?username=Hemantr05&show_icons=true)                   
 
 
