@@ -25,4 +25,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=Hemantr05&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantr05&theme=tokyonight)
+
 
