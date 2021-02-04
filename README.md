@@ -5,7 +5,7 @@
 <!--
 **Hemantr05/Hemantr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-##  Currently, I work as a Software Engineer (Machine Learning)
+##  I am a Software Engineer (Machine Learning)
 
 - 🔭 I’m currently working on:  Data Science (NLP and CV) and Machine Learning, Backend development (APIs)
 - 🌱 I’m currently learning: Speech Synthesis, Game theory.
