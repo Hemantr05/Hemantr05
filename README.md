@@ -17,9 +17,9 @@
 - ⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
 
 
-<p align="center">
+<!--<p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=hemantr05&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+</p> -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
