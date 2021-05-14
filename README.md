@@ -17,6 +17,10 @@
 - ⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
 
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=hemantr05&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
