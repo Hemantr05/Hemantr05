@@ -54,9 +54,13 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Hemantr05&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Hemantr05&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight">
+<!--<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight" />
-</a>
+</a>-->
+  <a href="https://github.com/hemantr05">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hemantr05&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=tokyonight">
+  </a>  
+  
 </div>
 
 
