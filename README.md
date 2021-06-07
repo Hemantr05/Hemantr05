@@ -13,6 +13,7 @@
 - 💬 Ask me about: Machine Learning, Deep Learning, Computer Vision and Image Processing
 - Email: hemantrak05@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hemant-rakesh-983b59129/
+- StackOverFlow: https://stackoverflow.com/users/4598649/hemant-rakesh
 - Medium: https://medium.com/@hemantrakesh
 - ⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
 
