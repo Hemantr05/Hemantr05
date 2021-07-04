@@ -59,7 +59,7 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight" />
 </a>-->
   <a href="https://github.com/hemantr05">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hemantr05&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hemantr05&hide=javascript&layout=compact&langs_count=8&theme=tokyonight">
   </a>  
   
 </div>
