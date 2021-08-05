@@ -52,9 +52,10 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Hemantr05&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Hemantr05&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=hemantr05&count_private=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=hemantr05&count_private=true&theme=tokyonight" />
 </a>
+  
 <!--<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Hemantr05&hide=php&theme=tokyonight" />
 </a>-->
