@@ -1,21 +1,27 @@
-### Hi there 👋 I'm Hemant!
-[![Github](https://img.shields.io/github/followers/Hemantr05?label=Follow&style=social)](https://github.com/Hemantr05)
+<h3 align='center'> Hi there 👋</h3> 
 
+<!--
+[![Github](https://img.shields.io/github/followers/Hemantr05?label=Follow&style=social)](https://github.com/Hemantr05)
+-->
 
 <!--
 **Hemantr05/Hemantr05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-##  I am a Software Engineer (Machine Learning)
+##  I am a Machine Learning Engineer
 
-- 🔭 I’m currently working on:  Data Science (NLP and CV) and Machine Learning, Backend development (APIs)
-- 🌱 I’m currently learning: Speech Synthesis, Game theory.
-- 👯 I’m looking to collaborate on: Deep Learning, Machine Learning, Computer Vision and MLOps
-- 💬 Ask me about: Machine Learning, Deep Learning, Computer Vision and Image Processing
+- 🔭 Currently working on: Document processing with NLP and Vision-based models and API development.
+- 🌱 Currently learning: Active Learning, Semi-/Self-Supervised learning approaches
+- 👯 Looking to collaborate on: Paper implementations (mostly computer vision based) and API/backend development.
+- 💬 Ask me about: Anything. 
+
+## Reach me at: 
 - Email: hemantrak05@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hemant-rakesh-983b59129/
 - StackOverFlow: https://stackoverflow.com/users/4598649/hemant-rakesh
 - Medium: https://medium.com/@hemantrakesh
-- ⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
+
+
+⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
 
 
 <!--<p align="center">
@@ -26,17 +32,18 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" alt="pytorch" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  
 
 <!--
 <p>
@@ -66,3 +73,4 @@
 </div>
 
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantr05&theme=tokyonight" alt="hemant" /></p>
