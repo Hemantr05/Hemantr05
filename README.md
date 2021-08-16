@@ -73,4 +73,6 @@
 </div>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantr05&theme=tokyonight" alt="hemant" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantr05&theme=tokyonight" alt="hemant" /></p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantr05&theme=tokyonight" alt="hemant" /></p>
+
