@@ -10,7 +10,7 @@
 
 ##  I am a Machine Learning Engineer
 
-- 🔭 Currently working on: Document processing with NLP and Vision-based models and API development.
+- 🔭 Currently working on: NLP and Vision-based models and API development for VrDU (Visually Rich Document Understanding).
 - 🌱 Currently learning: Active Learning, Semi-/Self-Supervised learning approaches
 - 👯 Looking to collaborate on: Paper implementations (mostly computer vision based) and API/backend development.
 - 💬 Ask me about: Anything. 
