@@ -10,9 +10,13 @@
 
 ##  I am a Machine Learning Engineer
 
+- 🛠 I'm proficient with Deep Learning, Python, and Data Science frameworks
 - 🔭 Currently working on: NLP and Vision-based models and API development for VrDU (Visually rich Document Understanding).
-- 🌱 Currently learning: Active Learning, Semi-/Self-Supervised learning approaches
-- 👯 Looking to collaborate on: Paper implementations (mostly computer vision based) and API/backend development.
+- 🌱 Currently learning: FastAPI, Hugging Face and Semi/Self supervisede machine learning
+- 👯 Looking to collaborate on: Python API development, CV/NLP based projects
+- 💬 Besides programming, I love reading blogs, understanding system/api design, compose blues on guitar, basically anything that make me think deeply
+- ⚡ Fun fact: I play around with ROS from time to time.
+
 
 
 ## Reach me at: 
@@ -23,7 +27,6 @@
 - Portolio: https://hemantr05.github.io
 
 
-⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
 
 
 <!--<p align="center">
