@@ -14,7 +14,7 @@
 - 🔭 Currently working on: NLP and Vision-based models and API development for VrDU (Visually rich Document Understanding).
 - 🌱 Currently learning: FastAPI, Hugging Face and Semi/Self supervisede machine learning
 - 👯 Looking to collaborate on: Python API development, CV/NLP based projects
-- 💬 Besides programming, I love reading blogs, understanding system/api design, compose blues on guitar, basically anything that make me think deeply
+- 💬 Besides programming, I love reading blogs, [understanding system/api design](https://hemantr05.github.io/menu/writing.html) , compose blues on guitar, basically anything that make me think deeply
 - ⚡ Fun fact: I play around with ROS from time to time.
 
 
