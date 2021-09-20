@@ -13,13 +13,14 @@
 - 🔭 Currently working on: NLP and Vision-based models and API development for VrDU (Visually rich Document Understanding).
 - 🌱 Currently learning: Active Learning, Semi-/Self-Supervised learning approaches
 - 👯 Looking to collaborate on: Paper implementations (mostly computer vision based) and API/backend development.
-- 💬 Ask me about: Anything. 
+
 
 ## Reach me at: 
 - Email: hemantrak05@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hemant-rakesh-983b59129/
 - StackOverFlow: https://stackoverflow.com/users/4598649/hemant-rakesh
 - Medium: https://medium.com/@hemantrakesh
+- Portolio: https://hemantr05.github.io
 
 
 ⚡ Fun fact: I try keeping up-to-date with ongoing research in AI and try to implement a few papers here and there as well.
