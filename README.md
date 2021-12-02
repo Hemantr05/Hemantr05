@@ -10,20 +10,20 @@
 
 ##  I am a Machine Learning Engineer
 
-- 🛠 I'm proficient with Deep Learning, Python, and Data Science frameworks
-- 🔭 Currently working on: NLP and Vision-based models and API development for VrDU (Visually rich Document Understanding).
-- 🌱 Currently learning: FastAPI, Hugging Face and Semi/Self supervisede machine learning
-- 👯 Looking to collaborate on: Python API development, CV/NLP based projects
+- 🛠 I'm proficient with Deep Learning, Python, and Data Science/CV/DL/NLP frameworks.
+- 🔭 Currently working on: Building and serving NLP/Vision-based models for VrDU (Visually rich Document Understanding).
+- 🌱 Currently learning: FastAPI, Hugging Face and Semi/Self supervised machine learning
+<!-- 👯 Looking to collaborate on: Python API development, CV/NLP based projects -->
 - 💬 Besides programming, I love reading blogs, [understanding system/api design](https://hemantr05.github.io/menu/writing.html) , compose blues on guitar, basically anything that make me think deeply
-- ⚡ Fun fact: I play around with ROS from time to time.
+- ⚡ Fun fact: I'm not a nerd and an adventurer.
 
 
 
 ## Reach me at: 
+- Portolio: https://hemantr05.github.io
 - Email: hemantrak05@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hemant-rakesh-983b59129/
 - Medium: https://medium.com/@hemantrakesh
-- Portolio: https://hemantr05.github.io
 - StackOverFlow: https://stackoverflow.com/users/4598649/hemant-rakesh
 - Pytorch: https://discuss.pytorch.org/u/hemantr05/summary
 
