@@ -12,10 +12,10 @@
 
 - 🛠 I'm proficient with Deep Learning, Python, and Data Science/CV/DL/NLP frameworks.
 - 🔭 Currently working on: Building and serving NLP/Vision-based models for VrDU (Visually rich Document Understanding).
-- 🌱 Currently learning: FastAPI, Hugging Face and Semi/Self supervised machine learning
+- 🌱 Currently learning: Hugging Face and Semi/Self supervised machine learning, async MLOps
 <!-- 👯 Looking to collaborate on: Python API development, CV/NLP based projects -->
-- 💬 Besides programming, I love reading blogs, [understanding system/api design](https://hemantr05.github.io/menu/writing.html) , compose blues on guitar, basically anything that make me think deeply
-- ⚡ Fun fact: I'm not a nerd and an adventurer.
+- 💬 Besides programming, I love writing blogs, [understanding system/api design](https://hemantr05.github.io/menu/writing.html) , figure out blues guitar licks, basically anything that make me think deeply
+- ⚡ Fun fact: I'm not a techy.
 
 
 
