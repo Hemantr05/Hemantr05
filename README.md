@@ -18,6 +18,10 @@
 <!-- - ⚡ Fun fact: I'm not a techy.-->
 
 
+# Resume and Certificates
+📃 [Resume](https://drive.google.com/file/d/1rx5kquMlQPKGrlwTUh-MgWMKCo9CI64m/view?usp=sharing)
+📃 [Certifications](https://drive.google.com/drive/folders/1BCIJMKcwzLEfXKqdh3-X0Vez-6GYGz6N?usp=sharing)
+
 
 ## Reach me at: 
 - Portolio: https://hemantr05.github.io
@@ -26,12 +30,6 @@
 - Medium: https://medium.com/@hemantrakesh
 - StackOverFlow: https://stackoverflow.com/users/4598649/hemant-rakesh
 - Pytorch: https://discuss.pytorch.org/u/hemantr05/summary
-
-
-# Resume and Certificates
-📃 [Resume](https://drive.google.com/file/d/1rx5kquMlQPKGrlwTUh-MgWMKCo9CI64m/view?usp=sharing)
-📃 [Certifications](https://drive.google.com/drive/folders/1BCIJMKcwzLEfXKqdh3-X0Vez-6GYGz6N?usp=sharing)
-
 
 
 <!--<p align="center">
