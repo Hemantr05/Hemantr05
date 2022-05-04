@@ -28,6 +28,9 @@
 - Pytorch: https://discuss.pytorch.org/u/hemantr05/summary
 
 
+# Resume and Certificates
+📃 [Resume](https://drive.google.com/file/d/1rx5kquMlQPKGrlwTUh-MgWMKCo9CI64m/view?usp=sharing)
+📃 [Certifications](https://drive.google.com/drive/folders/1BCIJMKcwzLEfXKqdh3-X0Vez-6GYGz6N?usp=sharing)
 
 
 
