@@ -19,7 +19,7 @@
 
 
 # Resume and Certificates
-📃 [Resume](https://drive.google.com/file/d/1yAiPEF4xjCHPb63BIctfVyVIPjkHmugG/view?usp=sharing)
+📃 [Resume](https://drive.google.com/file/d/1i44x0Zt1fKfNubTurKZhlw8qjRTjq0_q/view?usp=sharing)
 📃 [Certifications](https://drive.google.com/drive/folders/1BCIJMKcwzLEfXKqdh3-X0Vez-6GYGz6N?usp=sharing)
 
 
