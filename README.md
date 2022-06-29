@@ -27,7 +27,7 @@
 
 ## Reach me at: 
 - Email: hemantrak05@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hemant-rakesh-983b59129/
+- LinkedIn: https://www.linkedin.com/in/hemantr05/
 
 <!--
 **Portfolio & Articles:**
