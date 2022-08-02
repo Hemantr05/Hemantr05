@@ -17,7 +17,7 @@
 <!-- - 🌱 Currently learning: Hugging Face and Semi/Self supervised machine learning, async MLOps -->
 - 👯 Looking to collaborate on projects and research related CV and NLP.
 - 💬 Besides programming, I love writing blogs, [understanding system/api design](https://hemantr05.github.io/menu/writing.html) , figure out blues guitar licks, basically anything that make me think deeply
-- ⚡ Fun fact: Neuroscience influenced my to work on deep neural networks.
+- ⚡ Fun fact: Neuroscience influenced me to work on deep neural networks.
 
 
 # Resume and Certificates
